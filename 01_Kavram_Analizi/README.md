@@ -9,9 +9,9 @@ teknolojik kavram
 
 Gelecekte:
 
-Sosyolojik Kavram Analiz Super Prompt
-Psikolojik Kavram Analiz Super Prompt
-Hukuki Kavram Analiz Super Prompt
-Politik Kavram Analiz Super Prompt
-Antropolojik Kavram Analiz Super Prompt
-Sanatsal Kavram Analiz Super Prompt
+- Sosyolojik Kavram Analiz Super Prompt
+- Psikolojik Kavram Analiz Super Prompt
+- Hukuki Kavram Analiz Super Prompt
+- Politik Kavram Analiz Super Prompt
+- Antropolojik Kavram Analiz Super Prompt
+- Sanatsal Kavram Analiz Super Prompt

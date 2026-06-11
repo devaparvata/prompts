@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01_Kavram_Analizi/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "20334dd133eb5250",
+  "active": "d6fabd1b9afc2d72",
   "lastOpenFiles": [
+    "README.md",
     "99_Archive/v1.0/Besteci-Müzisyen Analiz v1.0.md",
     "04_Kisi_Korpus_Analizi/README.md",
     "99_Archive/experimental",
@@ -216,7 +217,6 @@
     "01_Kavram_Analizi",
     "00_Meta",
     "99_Archive/v1.0/Yazar Analiz v1.0.md",
-    "99_Archive/v1.0/Yönetmen Analiz v1.0.md",
     "99_Archive",
     "06_Karsilastirmali_Analiz",
     "05_Tur_Akim_Analizi",
