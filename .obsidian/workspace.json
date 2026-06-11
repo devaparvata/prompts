@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "81974e3b5e1d17a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f73d471fa778023f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6fabd1b9afc2d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c76b8adc50f223c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a819d3567d94b59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20334dd133eb5250",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a1880593cb7ad545",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d6f14fbd48af6e7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5
+  },
+  "right": {
+    "id": "fdd99eda0b290185",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fb94ebaffa9955",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc526978554bdec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "9ce95e69a828ed8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "43f5615ce4aa28a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "52e71826cee5155b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "991d08c231af2ee8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d6fabd1b9afc2d72",
+  "lastOpenFiles": [
+    "README.md",
+    "Disiplinlerarası Merak Uyandırıcı İçerik Promptu (35+).md",
+    "Çocuklar İçin Merak Uyandırıcı Bilgi Promptu (8-12).md",
+    "Çocuklar İçin Merak Uyandırıcı Bilgi Promptu (8-12) 1.md",
+    "Tekil Eser Analizi/Edebi Eser Analiz v1.0.md",
+    "Tekil Eser Analizi/Edebi Eser Analiz Super Prompt v2.0.md",
+    "Tekil Eser Analizi/TV Dizisi Analiz Super Prompt v2.0.md",
+    "Tekil Eser Analizi/TV Dizisi Analiz v1.0.md",
+    "Tekil Eser Analizi/Sinema Filmi Analiz Super Prompt v2.0.md",
+    "Tekil Eser Analizi/Sinema Filmi Analiz v1.0.md",
+    "Tekil Eser Analizi/Sinema Filmi Analiz v1.0 1.md",
+    "Karşılaştırmalı Analiz/İki Eseri Karşılaştırmalı Analiz Super Prompt.md",
+    "Untitled.md",
+    "Haber Analiz-Doğrulama Promptu.md",
+    "Ülke Analiz Super Prompt v1.0.md",
+    "Ekonomik Kavram Super Prompt v1.0.md",
+    "Karşılaştırmalı Analiz",
+    "Felsefi Kavram Super Prompt v1.0.md",
+    "Kişi - Korpus Analizi/Düşünür Analiz v1.0.md",
+    "Marka Analizi Super Prompt v.1.0.md",
+    "Tarihsel Dönem Super Prompt v1.0.md",
+    "Tarihsel Olay Super Prompt v1.0.md",
+    "Teknolojik Kavram Super Prompt v1.0.md",
+    "Celebrity Analizi Super Prompt v.1.0.md",
+    "Bilimsel Kavram Super Prompt v1.0.md",
+    "Tür - Akım Analizi/Edebi Akım Analizi v1.0.md",
+    "Tür - Akım Analizi/Felsefi Akım Analizi v1.0.md",
+    "Tür - Akım Analizi",
+    "Kişi - Korpus Analizi",
+    "Tekil Eser Analizi",
+    "Untitled.canvas"
+  ]
+}
