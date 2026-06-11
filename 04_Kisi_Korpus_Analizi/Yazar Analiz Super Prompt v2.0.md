@@ -1,5 +1,3 @@
-# Yazar Analizi Super Prompt v2.0
-
 ## Görev
 
 Aşağıda adı verilen yazarı, verilen checklist’i eksiksiz ve sırayı bozmadan kullanarak analiz et.

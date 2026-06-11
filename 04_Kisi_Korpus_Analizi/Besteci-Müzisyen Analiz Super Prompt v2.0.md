@@ -1,5 +1,3 @@
-# Besteci / Müzisyen Analizi Super Prompt v2.0
-
 ## Görev
 
 Aşağıda adı verilen besteci, müzisyen, grup, icracı, prodüktör veya müzikal kolektifi, verilen checklist’i eksiksiz ve sırayı bozmadan kullanarak analiz et.

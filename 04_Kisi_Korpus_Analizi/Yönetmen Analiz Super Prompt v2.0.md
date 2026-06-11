@@ -1,5 +1,3 @@
-# Yönetmen Analizi Super Prompt v2.0
-
 ## Görev
 
 Aşağıda adı verilen yönetmeni, verilen checklist’i eksiksiz ve sırayı bozmadan kullanarak analiz et.
