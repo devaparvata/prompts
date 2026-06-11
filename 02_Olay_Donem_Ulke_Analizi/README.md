@@ -1,17 +1,17 @@
-Amaç: makro tarihsel ve toplumsal analizler.
+**Amaç:** makro tarihsel ve toplumsal analizler.
 
-Kapsam:
+**Kapsam:**
 
-tarihsel dönem
-tarihsel olay
-ülke analizi
+- tarihsel dönem
+- tarihsel olay
+- ülke analizi
 
 Gelecekte:
 
-Şehir Analiz Super Prompt
-Medeniyet Analiz Super Prompt
-İmparatorluk Analiz Super Prompt
-Savaş Analiz Super Prompt
-Devrim Analiz Super Prompt
-Kurum Analiz Super Prompt
-Rejim Analiz Super Prompt
+- Şehir Analiz Super Prompt
+- Medeniyet Analiz Super Prompt
+- İmparatorluk Analiz Super Prompt
+- Savaş Analiz Super Prompt
+- Devrim Analiz Super Prompt
+- Kurum Analiz Super Prompt
+- Rejim Analiz Super Prompt

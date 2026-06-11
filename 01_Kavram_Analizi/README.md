@@ -1,11 +1,11 @@
-Amaç: tekil kavramları çok boyutlu analiz etmek.
+**Amaç:** tekil kavramları çok boyutlu analiz etmek.
 
-Kapsam:
+**Kapsam:**
 
-felsefi kavram
-ekonomik kavram
-bilimsel kavram
-teknolojik kavram
+- felsefi kavram
+- ekonomik kavram
+- bilimsel kavram
+- teknolojik kavram
 
 Gelecekte:
 

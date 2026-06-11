@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Kavram_Analizi/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,17 +185,17 @@
   },
   "active": "d6fabd1b9afc2d72",
   "lastOpenFiles": [
+    "07_Marka_Kurum_Urun_Analizi/README.md",
+    "06_Karsilastirmali_Analiz/README.md",
+    "05_Tur_Akim_Analizi/README.md",
+    "04_Kisi_Korpus_Analizi/README.md",
+    "03_Tekil_Eser_Analizi/README.md",
+    "01_Kavram_Analizi/README.md",
+    "02_Olay_Donem_Ulke_Analizi/README.md",
     "README.md",
     "99_Archive/v1.0/Besteci-Müzisyen Analiz v1.0.md",
-    "04_Kisi_Korpus_Analizi/README.md",
     "99_Archive/experimental",
     "99_Archive/v1.0",
-    "05_Tur_Akim_Analizi/README.md",
-    "06_Karsilastirmali_Analiz/README.md",
-    "07_Marka_Kurum_Urun_Analizi/README.md",
-    "03_Tekil_Eser_Analizi/README.md",
-    "02_Olay_Donem_Ulke_Analizi/README.md",
-    "01_Kavram_Analizi/README.md",
     "00_Meta/README.md",
     "04_Kisi_Korpus_Analizi/Yönetmen Analiz Super Prompt v2.0.md",
     "02_Olay_Donem_Ulke_Analizi/Ülke Analiz Super Prompt v1.0.md",

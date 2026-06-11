@@ -1,23 +1,21 @@
-Amaç: **iki veya daha fazla nesneyi karşılaştırmalı analiz etmek**.
+**Amaç:** **iki veya daha fazla nesneyi karşılaştırmalı analiz etmek**.
 
-Kapsam:
+**Kapsam:**
 
-iki eser karşılaştırması
-iki yazar karşılaştırması
-iki film karşılaştırması
-iki akım karşılaştırması
-iki marka / ülke / kavram karşılaştırması
+- iki eser karşılaştırması
+- iki yazar karşılaştırması
+- iki film karşılaştırması
+- iki akım karşılaştırması
+- iki marka / ülke / kavram karşılaştırması
 
 Gelecekte:
 
-İki Yazar Karşılaştırmalı Analiz Super Prompt
-İki Yönetmen Karşılaştırmalı Analiz Super Prompt
-İki Düşünür Karşılaştırmalı Analiz Super Prompt
-İki Marka Karşılaştırmalı Analiz Super Prompt
-İki Ülke Karşılaştırmalı Analiz Super Prompt
-İki Akım Karşılaştırmalı Analiz Super Prompt
-Çoklu Karşılaştırmalı Analiz Super Prompt
+- İki Yazar Karşılaştırmalı Analiz Super Prompt
+- İki Yönetmen Karşılaştırmalı Analiz Super Prompt
+- İki Düşünür Karşılaştırmalı Analiz Super Prompt
+- İki Marka Karşılaştırmalı Analiz Super Prompt
+- İki Ülke Karşılaştırmalı Analiz Super Prompt
+- İki Akım Karşılaştırmalı Analiz Super Prompt
+- Çoklu Karşılaştırmalı Analiz Super Prompt
 
-Burada şu uyarı iyi olur:
-
-Karşılaştırmalı analiz, iki ayrı özetin yan yana konması değildir. Benzerlik, fark, yapı, bağlam, etki ve sınır birlikte değerlendirilmelidir.
+**Uyarı:** Karşılaştırmalı analiz, iki ayrı özetin yan yana konması değildir. Benzerlik, fark, yapı, bağlam, etki ve sınır birlikte değerlendirilmelidir.
