@@ -110,3 +110,14 @@ Marka Analizi
 
 Ekteki super prompta benzer şekilde **iki eseri karşılaştırmalı olarak** analiz eden bir prompt yazmak istiyorum. tarihsel kültürel antropolojik ekonomik felsefi sosyolojik sosyopsikolojik finansal dönemsel politik anlambilimsel halkla ilişkiler sanatsal düşünsel algısal psikolojik anatomik kimliksel bağdaşımsal bilimsel meterolojik, jeolojik, paylaşımsal, demografik, güvenlik, pedagojik, dilsel ve benim düşünemediğim ve analizi zenginleştirebilecek ilave 5 boyutu da ekleyerek tüm boyutlarla çok katmanlı ve karşılaştırmalı analiz promptu yaz 
 Çıktı: düz Markdown code block için
+
+
+
+
+Elimde bir xxxx analiz promptu var:
+
+<...>
+
+Yukarıdaki promptu tarihsel kültürel antropolojik ekonomik felsefi sosyolojik sosyopsikolojik finansal dönemsel politik anlambilimsel halkla ilişkiler sanatsal düşünsel algısal psikolojik anatomik kimliksel bağdaşımsal bilimsel meterolojik, jeolojik, paylaşımsal, demografik, güvenlik, pedagojik, dilsel ve benim düşünemediğim ve analizi zenginleştirebilecek ilave 5 boyutu da ekleyerek tüm boyutlarla çok katmanlı ve karşılaştırmalı analiz promptu yaz 
+
+Çıktı: düz Markdown code block için

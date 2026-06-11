@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bugünün Gündemi Promptu.md",
+                "file": "Kişi - Korpus Analizi/Yazar Analizi Super Prompt v2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bugünün Gündemi Promptu"
+              "title": "Yazar Analizi Super Prompt v2.0"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 433.5
   },
   "right": {
     "id": "fdd99eda0b290185",
@@ -185,9 +185,21 @@
   },
   "active": "d6fabd1b9afc2d72",
   "lastOpenFiles": [
-    "Haber Analiz-Doğrulama Promptu.md",
-    "Bugünün Gündemi Promptu.md",
+    "Kişi - Korpus Analizi/Yazar Analiz v.1.0.md",
+    "Kişi - Korpus Analizi/Yazar Analizi Super Prompt v2.0.md",
     "Untitled.md",
+    "Tür - Akım Analizi/Felsefi Akım Analiz Super Prompt v2.0.md",
+    "Tür - Akım Analizi/Felsefi Akım Analizi v1.0.md",
+    "Tekil Eser Analizi/Kuramsal Kitap Analiz Super Prompt v2.0.md",
+    "Tekil Eser Analizi/Kuramsal Kitap Analiz v1.0.md",
+    "Kişi - Korpus Analizi/Yönetmen Analiz Super Promt v2.0.md",
+    "Kişi - Korpus Analizi/Yönetmen Analiz v.1.0.md",
+    "Kişi - Korpus Analizi/Besteci-Müzisyen Super Prompt v2.0.md",
+    "Kişi - Korpus Analizi/Besteci-Müzisyen Analiz v.1.0.md",
+    "Kişi - Korpus Analizi/Düşünür Analiz Super Prompt v2.0.md",
+    "Kişi - Korpus Analizi/Düşünür Analiz v1.0.md",
+    "Bugünün Gündemi Promptu.md",
+    "Haber Analiz-Doğrulama Promptu.md",
     "README.md",
     "Disiplinlerarası Merak Uyandırıcı İçerik Promptu (35+).md",
     "Çocuklar İçin Merak Uyandırıcı Bilgi Promptu (8-12).md",
@@ -199,19 +211,7 @@
     "Tekil Eser Analizi/Sinema Filmi Analiz Super Prompt v2.0.md",
     "Tekil Eser Analizi/Sinema Filmi Analiz v1.0.md",
     "Tekil Eser Analizi/Sinema Filmi Analiz v1.0 1.md",
-    "Karşılaştırmalı Analiz/İki Eseri Karşılaştırmalı Analiz Super Prompt.md",
-    "Ülke Analiz Super Prompt v1.0.md",
-    "Ekonomik Kavram Super Prompt v1.0.md",
     "Karşılaştırmalı Analiz",
-    "Felsefi Kavram Super Prompt v1.0.md",
-    "Kişi - Korpus Analizi/Düşünür Analiz v1.0.md",
-    "Marka Analizi Super Prompt v.1.0.md",
-    "Tarihsel Dönem Super Prompt v1.0.md",
-    "Tarihsel Olay Super Prompt v1.0.md",
-    "Teknolojik Kavram Super Prompt v1.0.md",
-    "Celebrity Analizi Super Prompt v.1.0.md",
-    "Bilimsel Kavram Super Prompt v1.0.md",
-    "Tür - Akım Analizi/Edebi Akım Analizi v1.0.md",
     "Tür - Akım Analizi",
     "Kişi - Korpus Analizi",
     "Tekil Eser Analizi",
