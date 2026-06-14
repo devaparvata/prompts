@@ -1,5 +1,3 @@
-# Müzik Türü Çok Katmanlı ve Karşılaştırmalı Analiz Super Prompt v1.0
-
 ### Görev
 
 Aşağıda adı verilen müzik türünü, çok katmanlı, karşılaştırmalı ve kanıt-temelli biçimde analiz et.
